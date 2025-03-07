@@ -19,8 +19,5 @@ Desde pequeno, sempre fui fascinado por tecnologia. Quando conheci o mundo da pr
 🚀 Tecnologias que estou estudando/tenho interesse:
 
 Linguagens: dart, javascript
-<div style="display: inline_block"><br>
-  <img align="center" alt="FPCoutoDev" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="FPCoutoDev" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?FPCoutoDev=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiFPCoutoDevanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
