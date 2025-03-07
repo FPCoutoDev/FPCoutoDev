@@ -20,4 +20,4 @@ Desde pequeno, sempre fui fascinado por tecnologia. Quando conheci o mundo da pr
 
 Linguagens: dart, javascript
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiFPCoutoDevanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiFPCoutoDev)](https://github.com/FPCoutoDev/github-readme-stats)
