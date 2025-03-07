@@ -20,18 +20,19 @@ Desde pequeno, sempre fui fascinado por tecnologia. Quando conheci o mundo da pr
 
 Linguagens: dart, javascript
 
-<div>
+<div style="background-color: #000000; border-radius: 10px; padding: 20px;">
   <a href="https://github.com/FPCoutoDev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FPCoutoDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FPCoutoDev&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FPCoutoDev&show_icons=true&theme=blue&include_all_commits=true&count_private=true" style="border-radius: 10px;"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FPCoutoDev&layout=compact&langs_count=16&theme=blue" style="border-radius: 10px;"/>
   </a>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="FPCouto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="FPCouto-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="FPCouto-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="FPCouto-Json" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg">
-  <img align="center" alt="FPCouto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="FPCouto-Yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+<div style="display: inline_block; padding: 10px; background-color: #0a1a2b; border-radius: 15px;">
+  <br>
+  <img align="center" alt="FPCouto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="border-radius: 8px;">
+  <img align="center" alt="FPCouto-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" style="border-radius: 8px;">
+  <img align="center" alt="FPCouto-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="border-radius: 8px;">
+  <img align="center" alt="FPCouto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="border-radius: 8px;">
+  <img align="right" alt="FPCouto-Gojo" src="https://cdn.discordapp.com/attachments/795358919417397249/1107020132157941783/gojo.gif" style="border-radius: 8px;">
 </div>
+
