@@ -33,6 +33,9 @@ Linguagens: dart, javascript
   <img align="center" alt="FPCouto-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" style="border-radius: 8px;">
   <img align="center" alt="FPCouto-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="border-radius: 8px;">
   <img align="center" alt="FPCouto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="border-radius: 8px;">
+  <img align="center" alt="FPCouto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="border-radius: 8px;">
+  <img align="center" alt="FPCouto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="border-radius: 8px;">
   <img align="right" alt="FPCouto-Gojo" src="https://cdn.discordapp.com/attachments/795358919417397249/1107020132157941783/gojo.gif" style="border-radius: 8px;">
 </div>
+
 
