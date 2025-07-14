@@ -18,7 +18,7 @@ Desde pequeno, sempre fui fascinado por tecnologia. Quando conheci o mundo da pr
 
 🚀 Tecnologias que estou estudando/tenho interesse:
 
-Linguagens: dart, javascript
+Linguagens: dart, javascript, python, java
 
 <div style="display: inline_block; padding: 10px; background-color: #0a1a2b; border-radius: 15px;">
   <br>
